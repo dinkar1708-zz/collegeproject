@@ -1,0 +1,54 @@
+1.write a program to convert binary no. to corresponding decimal no.
+
+
+2w.rite a program which has 2 int a,b and perform bitwise operations
+ |,&,~,^ and shift operations <<,>>,>>> on it.
+
+3..write a program to convert decimal no. to corresponding binary no.
+
+4.W.A.P. to check whether the year is leap or not.
+
+
+5.W.A.P. to print the marksheet of the student in the following manner
+
+                    Marksheet
+     ------------------------------------
+      Name     :  Rahul Jain
+      Roll No  :  0205ca071101
+      College  : JSS College
+      
+     ------------------------------------   
+
+     Subject   :    Marks
+     
+     Sub1      :     
+     Sub2      :
+     Sub3      :
+     Sub4      :
+     Sub5      :	     
+     -------------------------------------  
+     Total     :
+
+     Percent   :
+     -------------------------------------
+
+
+6.W.A.P. to enter a no and print the reverse of it and find the sum of each digit.
+
+7.W.A.P. to print perfect numbers between 1-1000
+
+
+8.W.A.P. to print sum of the following series.  
+    
+   1/!1 + 2^2/!2 + 3^3/!3 + 4^4/!4 ...  up to n terms
+
+
+9.W.A.P. to print the pascal triangle
+       1 
+
+      1 1      
+
+     1 2 1  
+
+    1 3 3 1
+   1 4 6 4 1 
